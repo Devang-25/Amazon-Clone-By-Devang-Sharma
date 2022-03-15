@@ -1,0 +1,346 @@
+Date : 13th March 2022
+Mentor: DEVANG SHARMA
+Batch: NEWTON SCHOOL
+Agenda : Amazon  - Product Overview, Clone, and Hosting
+
+"AMAZON CLONE USING REACT AND FIREBASE"
+
+-> Introduction - DONE: 
+-> Live Demo of Clone- Web Version - DONE
+
+-> Scope and Definition- 
+-> Amazon as a Product - 
+-> Requirement clarification 
+ 	- Functional
+ 	- Non Functional
+ 	- Out of Scope
+
+-> Intro to React Js
+-> Environment Setup- VS Code
+-> Useful Extensions
+-> Github Account 
+-> Create Repo: Amazon clone by __:
+
+-> Steps:
+(1) Create App: DONE
+(2) Setup Firebase: DONE
+(3) Setup React Router: IMPORTANT and Its Use Cases (No Refresh- SPA with Multiple Pages): DONE
+
+(4) Build Nav Bar (Header)  - STICKY
+(5) Build Banner
+(6) Product Component
+(7) React Context API/ Redux
+(8) Add to Basket Button
+(9) Checkout Page
+(10) Subtotal Component
+(11) Login Page
+(12) Deploy Page LIVE on Firebase
+
+-> BEM Model in CSS (Block, Element, Modifier)
+-> Heroku Account: 
+-> Firebase Account:
+
+
+
+
+"Please Type 'Hi' in the Chat Box if you have joined and Can See this Screen".
+"We Will Start immediately After Every one has joined the session"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-> Web Applications:
+
+Front End:
+- Languages: HTML, CSS, JS, Typescript
+- Frameworks: React, Angular, Vue
+
+BackEnd:
+- Languages: Java, Node.js, Python, C++, C# etc
+- Framework: Django, Spring Boot etc
+
+Mobile Application:
+- Android (Google): Java, Kotlin 
+- iOS (Apple): Swift
+
+New things: Flutter, React Native : BOTH for Android and iOS
+
+
+-> Amazon Clone:
+
+- Front End: React js with Redux
+- Back End: Firebase
+
+
+
+
+--> Live Demo of Amazon Clone:
+
+(1) Nav Bar/Header: (HTML + CSS): Code + Property: Sticky
+- Logo
+- search bar
+- signIn
+- orders
+- your prime 
+- cart
+
+
+(2) Cart
+- Diff Page: http://localhost:3000/checkout
+- Subtotal: Sum of All Items
+- List of Items in Cart
+- Remove from Basket
+- Checkout --> Payment
+- Advertisememnt Banner
+- Gift Checkbox
+
+
+(3) Body: 
+- Banner (Gradient)
+- Products
+
+
+(4) Products:
+- Name + Desc
+- Price
+- Stars (Out of 5)
+- Image
+- Add to Basket
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) DB performance: ()
+- Sign Up
+- Login
+
+
+
+(4) Authentication: 
+- Sign Up (Create New Username and PW)
+- Login (Match Username with PW)
+
+
+Client ---> Username + PW ----> jkhghdjsg27863787897912 --> Server
+
+{
+	username: devang@gmail.com
+	PW: devang
+}
+
+devang ---> jkhghdjsg27863787897912: ENCRYPTION
+
+
+If Correct, Login
+Else, Incorrect Password
+
+
+BackEnd: FIREBASE:
+
+- Firebase: Set of Tools/Suite of Tools
+- Firebase: Database
+- Firebase: Authentication
+- Firebase: Storage
+- Firebase: Hosting
+- Firebase: Messaging
+- Firebase: Realtime Database
+
+
+Key:
+
+
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+const firebaseConfig = {
+  apiKey: "AIzaSyA9Gw5vMThyoMjIM0l4P34__7bg6T-HpTQ",
+  authDomain: "clone-devang.firebaseapp.com",
+  projectId: "clone-devang",
+  storageBucket: "clone-devang.appspot.com",
+  messagingSenderId: "947620072798",
+  appId: "1:947620072798:web:e06489ea5eaf064cf353cf",
+  measurementId: "G-8FB3SJMNNL"
+};
+
+
+
+
+-> First React App
+
+- Install Node and Npm (Node Package Manager) in your System - DONE
+(https://nodejs.org/en/download/)
+Check With: node -v and npm -v
+
+- Diff between npm create and npx create
+(npm install -g create-react-app)
+
+Choose Any Folder:
+(npx create-react-app amazon-clone-by-devang)
+
+Code: npm start
+
+-> Accounts Required : Github, Amazon, Firebase and Heroku- 
+
+Redirect URI- http://localhost:3000/ - DONE
+
+-> Coding, Coding and Coding: MOST Imp and Fun: 1 Hr 15 Mins- DONE
+
+-> Push to Github: 5 Mins- DONE
+
+-> Hosting on Heroku (Deployment on Prod): 10 Mins- DONE
+
+-> npm install and npm start commands (Local and Prod Builds)- DONE
+
+
+LIVE DEMO of Clone We Will Build: DONE
+
+
+
+
+---> React Routers:
+
+Install:
+
+npm install react-router-dom@5
+
+OR
+
+yarn add react-router-dom@5
+
+
+
+
+
+---> NAV BAR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-> Amazon Logo:
+
+
+
+
+
+-> ColorZilla Chrome Extension
+
+-> Es7 VS Code Extension
+(Type rfce and Enter)
+
+-> object-fit: contain
+
+(PRO Tip to Make Responsive Web Pages)
+
+LIVE DEMO of Clone We Will Build:
+
+CODING: 
+
+
+- Create Login Page
+
+
+Flipkart -> Pay -> Paytm -> Payment -> Flipkart
+
+
+Github Push
+- DO NOT PUSH Node-Modules
+
+Two Methods: 
+(1) Github Desktop 
+(2) Git Command
+
+git status
+git add . (Don't Use Node Modules)
+git commit -m "Added Amazon Clone"
+git push
+
+
+
+Host on Heroku
+(1) Create Profile On Heroku
+(2) Create Repo
+(3) Create Heroku App
+(4) Select Region - US ot Europe
+(5) Select Github Repo
+(6) Deploy on Heroku
+
+
+Ending:
+
+(1) Post About it on Linkedin
+(2) Github Link and recording
+(3) Certificate
+(4) Newton School
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
